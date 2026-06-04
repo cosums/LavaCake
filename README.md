@@ -1,6 +1,8 @@
 # LavaCake
 A backend system for a server integration with an Obsidian Vault and Discord Bot.
 
+While I am designing it to run on a RaspberryPi, some functionality (ollama mostly) may require a secondary/powerful machine.
+
 Name sources from Obsidian (lava + water) and RaspberryPi (pie -> cake).
 
 ## Modules:
