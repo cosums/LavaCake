@@ -11,4 +11,4 @@ Name sources from Obsidian (lava + water) and RaspberryPi (pie -> cake).
 - Discord bot that manages conversational chats and commands sent to SourPi.
 
 ### Ollama
-- Uses Ollama API to do some cool things with local llms, keeping the Obsidian Vault private!
+- Uses Ollama Client to do some cool things with local llms, keeping the Obsidian Vault private!
